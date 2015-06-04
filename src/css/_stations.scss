@@ -1,0 +1,15 @@
+.stations {
+  margin: 1em;
+}
+
+.station {
+  padding: 1em;
+}
+
+.station + .station {
+  border-top: 1px solid shade($primary-fg-color, 30%);
+}
+
+.station-channel {
+  float: right;
+}
