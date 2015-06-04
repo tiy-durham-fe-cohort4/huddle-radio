@@ -1,9 +1,9 @@
 {
-  "name": "gulp-base",
+  "name": "radio",
   "version": "0.0.0",
   "homepage": "http://urltoyourgithubrepo.com",
   "authors": [
-    "Your Name <your@emailaddress.com>"
+    "Chris Davies <chris.davies@theironyard.com>"
   ],
   "moduleType": [
     "node"
